@@ -1,0 +1,27 @@
+0e73ef59-6a5f-4054-8625-d03607c29e88:1715624064071:0:S:desc Exam;
+2688e5f9-f267-4128-935b-a8d8e7d9e943:1715626148936:0:S:desc Exam;
+4955c35f-320f-40c9-bdbf-c7296012b3f5:1715626329717:0:S:desc Exam
+80acb7cb-359d-45b9-90b2-52fa54956b03:1715626614474:880:S:desc Exam;
+036f949e-cec7-4a1a-8c75-eabffe26bbf2:1715659461019:653:S:desc Exam;
+0945eea4-6017-404b-bf30-2b8ec9bac2b0:1715659470381:236:S:drop table Exam;
+b70dc03b-c825-4a4d-951a-95baefcec180:1715664709931:589:S:desc Exam;
+81e8a3e1-009f-4850-8740-24516a4abcca:1715664717963:37:S:drop table Exam;
+eb1e6d46-1f24-40f0-9d3f-8fd77692a2be:1715665427316:70:S:select * from Exam;
+a0d96f59-d804-4087-a013-f79472a61773:1715666500383:56:S:select * from Exam;
+219f187a-8e67-459d-a4b2-93d553bf829b:1715666530402:44:S:drop table Exam;
+6ca1572a-0cc5-4a58-b92e-ec9a4ab2da57:1715666691647:582:S:desc Exam;
+c89ecef3-3c96-4d54-9c0f-6a249be60562:1715666707029:41:S:drop table Exam;
+ee57b799-7fbc-4505-ba58-49a6e297cc69:1715666809714:59:S:select * from Exam;
+491f88e4-f706-42d7-839e-47dc8023e600:1715666816404:5:S:select * from EXAM;
+e5e09b9f-d082-4d1a-b4bc-e19093d89faf:1715666948707:52:S:select * from EXAM;
+ce50a2d8-a564-4021-bb15-f99b5dbb32d8:1715666960320:101:S:desc Exam;
+d7d04d9e-9789-4f6a-a45a-7b45ad69ea8e:1715667395475:48:S:select * from Exam;
+126777e4-e588-4d85-b070-cfe09c6a55a6:1715667710263:58:S:select *from Exam;
+f7b82e36-1b48-45ea-b622-727a44a7e966:1715669363927:575:S:desc Exam;
+d08e28e7-52a7-4d78-b1e9-47a2a0d06c7d:1715669466015:10:S:insert into Exam values(2348990323, 'Geeta Verma', 'geetaverma112@yahoo.com', 'CSE', 'DBMS, Java, C&S, PSLP, TOC');
+737fa7e0-8a60-4d25-a308-1d2b27001bae:1715669527862:9:S:DELETE FROM EXAM WHERE NAME = 'Geeta Verma';
+ca6dde1f-4e1d-4c08-8cb7-e0e376474a96:1715669675769:7:S:insert into Exam values(2348990323, 'Geeta Verma', 'geetaverma112@yahoo.com', 'CSE', 'DBMS, Java, CandS, PSLP, TOC');
+9976510c-8297-4d2e-a14c-853adcbdafe4:1715670233334:0:S:insert into Exam values(2357578577, 'Abhishek Kumar', 'abhikumar233@gmail.com', 'IT', 'DBMS, Java, CandS, PSLP, TOC');
+ee6ff281-ad75-424f-a88a-37ac225f6d45:1715670467237:4:S:insert into Exam values(3949850329, 'Anushka Nagpal', 'anunag423@gmail.com', 'ECE', 'PSLP, EMFT, NAandS, Microprocessors, DComms, AE-2');
+47e95e92-6ef0-427e-ace6-3110035a3862:1715670637372:3:S:insert into Exam values(3474857893, 'Bhaskar Chopra', 'bhaskar344@yahoo.com', 'EEE', 'PSLP, NAandS, EM-2, PS-1, Electronics-2');
+88c6c00b-c9ec-40aa-b198-eaebccd07784:1715670652273:14:S:select * from Exam;
